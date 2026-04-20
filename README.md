@@ -34,6 +34,14 @@ The analysis includes:
 
 ---
 
+## 🛠️ Technologies
+
+- Python 3.10
+- Streamlit
+- Pandas
+- Plotly
+- Scikit-learn
+
 ## 🧠 Application Structure
 
 The dashboard is divided into four main sections:
