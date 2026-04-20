@@ -39,6 +39,7 @@ The analysis includes:
 - Python 3.10
 - Streamlit
 - Pandas
+- NumPy
 - Plotly
 - Scikit-learn
 
