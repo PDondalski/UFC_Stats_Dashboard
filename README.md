@@ -41,3 +41,10 @@ The dashboard is designed to guide the user from general observations to more de
 - The model achieves **moderate predictive performance** (R² ≈ 0.56)
 
 ---
+
+## 📎 Data Source
+
+Dataset from Kaggle:  
+https://www.kaggle.com/datasets/thasankakandage/ufc-dataset-2024  
+
+The dataset contains UFC fight statistics and reflects data available as of November 2024.
